@@ -34,3 +34,5 @@ The graph would look like this.
 <img width="638" alt="Screenshot 2022-10-02 at 6 20 07 PM" src="https://user-images.githubusercontent.com/89096691/193455412-4fa0d91c-a278-4649-a356-b499ab104c23.png">
 
 Since person 2 has exactly 3 incoming edges and this is possible only if 3 suspects are telling the truth, 2 is the criminal.
+
+Modules used to display the graph in python are networkx and matplotlib.pyplot
